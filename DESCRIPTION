@@ -5,7 +5,7 @@ Authors@R:
     person(first = "Hannah", last = "Cardenas",
            email = "hannah.cardenas03@gmail.com",
            role = c("aut","cre"))
-Description: Small helpers for IDP analysis. Compute Uversky charge–hydropathy
+Description: Small toolkit for IDP analysis. Compute Uversky charge–hydropathy
     metrics and plots, combine outputs from disorder predictors into a consensus,
     and call putative IDRs from AlphaFold pLDDT with simple visualizations.
 Depends: R (>= 3.1.2)
