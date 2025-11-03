@@ -2,7 +2,7 @@ Package: disordR
 Title: Tools for Charge–Hydropathy, Disorder Consensus, and pLDDT IDRs
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Hannah", family = "Cardenas",
+    person(first = "Hannah", last = "Cardenas",
            email = "hannah.cardenas03@gmail.com",
            role = c("aut","cre"))
 Description: Small helpers for IDP analysis. Compute Uversky charge–hydropathy
