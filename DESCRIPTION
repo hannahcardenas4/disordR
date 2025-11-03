@@ -1,0 +1,18 @@
+Package: disordR
+Title: Tools for Charge–Hydropathy, Disorder Consensus, and pLDDT IDRs
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Hannah", family = "Cardenas",
+           email = "hannah.cardenas03@gmail.com",
+           role = c("aut","cre"))
+Description: Small helpers for IDP analysis. Compute Uversky charge–hydropathy
+    metrics and plots, combine outputs from disorder predictors into a consensus,
+    and call putative IDRs from AlphaFold pLDDT with simple visualizations.
+Depends: R (>= 3.6)
+Imports: readr, dplyr, stringr, tibble, ggplot2
+Suggests: bio3d
+License: CC0
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/hannahcardenas4/disordR
+BugReports: https://github.com/hannahcardenas4/disordR/issues
