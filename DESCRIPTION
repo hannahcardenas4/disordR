@@ -8,7 +8,7 @@ Authors@R:
 Description: Small helpers for IDP analysis. Compute Uversky charge–hydropathy
     metrics and plots, combine outputs from disorder predictors into a consensus,
     and call putative IDRs from AlphaFold pLDDT with simple visualizations.
-Depends: R (>= 3.6)
+Depends: R (>= 3.1.2)
 Imports: readr, dplyr, stringr, tibble, ggplot2
 Suggests: bio3d
 License: CC0
